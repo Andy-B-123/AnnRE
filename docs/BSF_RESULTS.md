@@ -28,8 +28,3 @@ The initial 50-base anchor screen shortlisted 108 genes / 119 joins. Follow-up i
 
 The remaining candidates still need adjudication. Low expression, alignment limitations, partial transcripts, readthrough and overlapping transcription can complicate interpretation. Alternative bridging structures have not been exhaustively reassessed with every possible short-anchor rule.
 
-## Suggested conference wording
-
-> A genome-wide long-read evidence audit shortlisted 105 BSF genes (116 reference joins; approximately 0.75% of intron-containing genes) for annotation review. These joins persisted in existing Bambu and ANNEXA outputs, illustrating a complementary role for evidence-based reference-model QC. The candidates require biological and structural adjudication; this is not a measured accuracy improvement.
-
-The archived project evidence includes per-junction comparisons, read audits, quantification and checksums. This source repository contains a portable prototype and a summary, not the underlying BAMs or the entire project-specific census. Counts alone cannot reproduce that census. Independent precision/recall or validated correction yield remains future work.

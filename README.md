@@ -67,13 +67,6 @@ Supporting reads are movie/ZMW-deduplicated observations within sample in PacBio
 The curation module is deliberately parked for this release.
 
 ## Project information
-
-- [Publish this MVP on GitHub](docs/PUBLISHING.md)
-- [Create a conference QR code and screenshot](docs/CONFERENCE.md)
-- [AI assistance and scientific attribution](ACKNOWLEDGEMENTS.md)
-- [Citation metadata](CITATION.cff) — provisional contributor list
-- [License status](LICENSE_STATUS.md) — license not yet selected
-
 Target repository: [Andy-B-123/AnnRE](https://github.com/Andy-B-123/AnnRE).
 
 The working name is **AnnRE — Annotation Refinement with Evidence**. `annre` is the command-line name. This is an alpha research preview; report reproducible issues and include the relevant input schema and software version.

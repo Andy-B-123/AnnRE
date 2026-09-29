@@ -1,0 +1,4 @@
+library_id	sample_id	bam	tissue	stage	instar
+library_01	sample_01	alignments/library_01.bam	gut	larva	4
+library_02	sample_02	alignments/library_02.bam	gut	larva	4
+library_01_topup	sample_01	alignments/library_01_topup.bam	gut	larva	4

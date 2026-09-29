@@ -1,0 +1,9 @@
+{
+  "genome": "genome.fa",
+  "reference": "reference.gtf",
+  "samples": "samples.tsv",
+  "genes": ["gene_A", "gene_B"],
+  "alternates": {"Tiberius": "tiberius.gtf", "Bambu": "bambu.gtf"},
+  "observation_mode": "pacbio-zmw",
+  "strand_mode": "alignment"
+}

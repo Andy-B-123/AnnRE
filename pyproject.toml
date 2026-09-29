@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "annre"
+version = "0.1.0a1"
+description = "Annotation Refinement with Evidence: long-read evidence for gene-model review"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["pysam>=0.22,<0.24"]
+authors = [{name = "Andreas Bachler"}]
+classifiers = ["Development Status :: 3 - Alpha", "Topic :: Scientific/Engineering :: Bio-Informatics"]
+
+[project.optional-dependencies]
+presentation = ["qrcode[pil]>=7.4,<9"]
+
+[project.scripts]
+annre = "annre.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["annre*"]

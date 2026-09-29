@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this research prototype, cite the software version and repository URL. Author list is provisional pending contributor agreement."
+title: "AnnRE: Annotation Refinement with Evidence"
+version: 0.1.0a1
+type: software
+authors:
+  - family-names: Bachler
+    given-names: Andreas
+abstract: "A research prototype that tests gene annotation against long-read RNA evidence and produces an auditable candidate-review queue."
+keywords:
+  - genome annotation
+  - long-read RNA sequencing
+  - annotation quality control
+repository-code: "https://github.com/Andy-B-123/AnnRE"
+url: "https://github.com/Andy-B-123/AnnRE"
